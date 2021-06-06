@@ -12,6 +12,7 @@ const EnvioRapido = styled.p`
     background-color: #38C1CA;
     color: white;
     font-size: 1rem;
+    border: 1px solid;
     border-bottom-left-radius: 2rem !important;
     border-bottom-right-radius: 2rem !important;
     text-align: center;
