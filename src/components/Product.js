@@ -61,7 +61,7 @@ const Product = ({product}) => {
             icon: 'success',
             title: 'Producto agregado al carrito',
             showConfirmButton: false,
-            timer: 1000
+            timer: 1200
         })
     })
     const clickProduct = () => {

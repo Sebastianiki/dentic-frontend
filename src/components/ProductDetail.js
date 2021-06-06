@@ -73,7 +73,7 @@ const ProductDetail = () => {
             icon: 'success',
             title: 'Producto agregado al carrito',
             showConfirmButton: false,
-            timer: 1000
+            timer: 1200
         })
     })
     let clase = selectedProduct.store.replace(/\s+/g, '').toUpperCase()
