@@ -28,7 +28,7 @@ const MinusIcon = styled.span`
     color: gray;
     font-size: 2rem;
     &:hover {
-        color: black;
+        color: red;
         cursor: pointer;
     }
 `
@@ -37,7 +37,7 @@ const PlusIcon = styled.span`
     color: gray;
     font-size: 2rem;
     &:hover {
-        color: black;
+        color: green;
         cursor: pointer;
     }
 `
